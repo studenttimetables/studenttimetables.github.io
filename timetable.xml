@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8"?>
+<timetable ascttversion="2018.3.4" importtype="database" options="idprefix:MyApp">
+   <teachers options="import:disable,canadd,canremove,canupdate,primarytt,silent" columns="id,name,short,htmlexportlink">
+      <teacher id="*1" name="DR. AZZIDDIN RAZALI" short="DR. AZZIDDIN" htmlexportlink="teachers_0.html?frame=0"/>
+      <teacher id="*2" name="DR. INTAN AZMIRA" short="DR. INTAN" htmlexportlink="teachers_0.html?frame=1"/>
+      <teacher id="*3" name="DR. LEE MEI PH'NG" short="DR. LEE MEI PH'NG" htmlexportlink="teachers_0.html?frame=2"/>
+      <teacher id="*4" name="DR. MULIATI" short="DR. MULIATI" htmlexportlink="teachers_0.html?frame=3"/>
+      <teacher id="*5" name="DR. NORAIN" short="DR. NORAIN" htmlexportlink="teachers_0.html?frame=4"/>
+      <teacher id="*6" name="DR. NURHIDAYAH" short="DR. NURHIDAYAH" htmlexportlink="teachers_0.html?frame=5"/>
+      <teacher id="*7" name="DR. NUSAIBAH" short="DR. NUSAIBAH" htmlexportlink="teachers_0.html?frame=6"/>
+      <teacher id="*8" name="DR. RAJA FIRDAUS" short="DR. RAJA" htmlexportlink="teachers_0.html?frame=7"/>
+      <teacher id="*9" name="DR. SILAH FKP" short="DR. SILAH FKP" htmlexportlink="teachers_0.html?frame=8"/>
+      <teacher id="*10" name="DR. ZUL ATFYI FAUZAN B MOHAMMED NAPIAH" short="DR. ZUL ATFYI" htmlexportlink="teachers_0.html?frame=9"/>
+      <teacher id="*11" name=" DR. ABD RAHMAN BIN DULLAH" short="DR. RAHMAN" htmlexportlink="teachers_0.html?frame=10"/>
+      <teacher id="*12" name=" DR. ABDUL RAFEQ BIN SALEMAN" short="DR. RAFEQ" htmlexportlink="teachers_0.html?frame=11"/>
+      <teacher id="*13" name=" DR. ADNAN BIN ROSELI" short="DR. ADNAN" htmlexportlink="teachers_0.html?frame=12"/>
+      <teacher id="*14" name="DR. AHMAD KAMAL BIN MAT YAMIN" short="DR. AHMAD KAMAL" htmlexportlink="teachers_0.html?frame=13"/>
+      <teacher id="*15" name="DR. AHMAD ANAS BIN YUSOF" short="DR ANAS" htmlexportlink="teachers_0.html?frame=14"/>
+      <teacher id="*16" name="DR. CHENG SEE YUAN" short="DR. CHENG" htmlexportlink="teachers_0.html?frame=15"/>
+      <teacher id="*17" name="DR. ERNIE BINTI MAT TOKIT" short="DR. ERNIE" htmlexportlink="teachers_0.html?frame=16"/>
+      <teacher id="*18" name=" DR. FADHLI BIN SYAHRIAL" short="DR. FADHLI" htmlexportlink="teachers_0.html?frame=17"/>
+      <teacher id="*19" name="DR. FAIZ REDZA BIN RAMLI" short="DR. FAIZ REDZA" htmlexportlink="teachers_0.html?frame=18"/>
+      <teacher id="*20" name=" DR. FATIMAH AL-ZAHRAH BINTI MOHD SA'AT" short="DR. FATIMAH" htmlexportlink="teachers_0.html?frame=19"/>
+      <teacher id="*21" name=" DR. FAUZI BIN AHMAD" short="DR. FAUZI" htmlexportlink="teachers_0.html?frame=20"/>
+      <teacher id="*22" name=" DR. FUDHAIL BIN ABDUL MUNIR" short="DR. FUDHAIL" htmlexportlink="teachers_0.html?frame=21"/>
+      <teacher id="*23" name=" DR. KAMARUL ARIFIN BIN ZAKARIA" short="DR. KAMARUL" htmlexportlink="teachers_0.html?frame=22"/>
+      <teacher id="*24" name=" DR. MD. FAHMI BIN ABD. SAMAD @ MAHMOOD" short="DR. FAHMI" htmlexportlink="teachers_0.html?frame=23"/>
+      <teacher id="*25" name=" DR. MD. ISA BIN ALI" short="DR. MD. ISA" htmlexportlink="teachers_0.html?frame=24"/>
+      <teacher id="*26" name=" DR. MIZAH BINTI RAMLI" short="DR. MIZAH" htmlexportlink="teachers_0.html?frame=25"/>
+      <teacher id="*27" name=" DR. MOHAMAD FIRDAUS BIN SUKRI" short="DR. FIRDAUS" htmlexportlink="teachers_0.html?frame=26"/>
+      <teacher id="*28" name="DR. MOHD AFZANIZAM BIN MOHD ROSLI" short="DR. AFZANIZAM" htmlexportlink="teachers_0.html?frame=27"/>
+      <teacher id="*29" name=" DR. MOHD ASRI BIN YUSUFF" short="DR. ASRI" htmlexportlink="teachers_0.html?frame=28"/>
+      <teacher id="*30" name=" DR. MOHD AZLI BIN SALIM" short="DR. AZLI" htmlexportlink="teachers_0.html?frame=29"/>
+      <teacher id="*31" name=" DR. MOHD AZMAN BIN ABDULLAH" short="DR. AZMAN" htmlexportlink="teachers_0.html?frame=30"/>
+      <teacher id="*32" name=" DR. MOHD BASRI BIN ALI" short="DR. BASRI" htmlexportlink="teachers_0.html?frame=31"/>
+      <teacher id="*33" name=" DR. MOHD HAIZAL BIN MOHD HUSIN" short="DR. HAIZAL" htmlexportlink="teachers_0.html?frame=32"/>
+      <teacher id="*34" name=" DR. MOHD KHAIRI BIN MOHAMED NOR" short="DR. KHAIRI" htmlexportlink="teachers_0.html?frame=33"/>
+      <teacher id="*35" name=" DR. MOHD NIZAM BIN SUDIN" short="DR. NIZAM" htmlexportlink="teachers_0.html?frame=34"/>
+      <teacher id="*36" name=" DR. MOHD NUR AZMI BIN NORDIN" short="DR. AZMI NORDIN" htmlexportlink="teachers_0.html?frame=35"/>
+      <teacher id="*37" name="DR. MOHD YUSOFF BIN HJ. SULAIMAN" short="DR. YUSOFF" htmlexportlink="teachers_0.html?frame=36"/>
+      <teacher id="*38" name=" DR. MOHD ZAID BIN AKOP" short="DR. ZAID" htmlexportlink="teachers_0.html?frame=37"/>
+      <teacher id="*39" name=" DR. MUHD RIDZUAN BIN MANSOR" short="DR. RIDZUAN MANSOR" htmlexportlink="teachers_0.html?frame=38"/>
+      <teacher id="*40" name=" DR. NADLENE BINTI RAZALI" short="DR. NADLENE" htmlexportlink="teachers_0.html?frame=39"/>
+      <teacher id="*41" name=" DR. NAZRI BIN MD DAUD" short="DR. NAZRI " htmlexportlink="teachers_0.html?frame=40"/>
+      <teacher id="*42" name="DR. NOR AZMMI BIN MASRIPAN" short="DR. AZMMI MASRIPAN" htmlexportlink="teachers_0.html?frame=41"/>
+      <teacher id="*43" name=" DR. NOR SALIM BIN MUHAMMAD" short="DR. NORSALIM" htmlexportlink="teachers_0.html?frame=42"/>
+      <teacher id="*44" name=" DR. NURFAIZEY BIN ABDUL HAMID" short="DR. NURFAIZEY" htmlexportlink="teachers_0.html?frame=43"/>
+      <teacher id="*45" name="DR. RAFIDAH BINTI HASAN" short="DR. RAFIDAH" htmlexportlink="teachers_0.html?frame=44"/>
+      <teacher id="*46" name=" DR. RAINAH BINTI ISMAIL" short="DR. RAINAH" htmlexportlink="teachers_0.html?frame=45"/>
+      <teacher id="*47" name=" DR. REDUAN BIN MAT DAN" short="DR. REDUAN" htmlexportlink="teachers_0.html?frame=46"/>
+      <teacher id="*48" name=" DR. RUZTAMREEN BIN JENAL" short="DR. RUZTAMREEN" htmlexportlink="teachers_0.html?frame=47"/>
+      <teacher id="*49" name=" DR. SHAFIZAL BIN MAT" short="DR. SHAFIZAL" htmlexportlink="teachers_0.html?frame=48"/>
+      <teacher id="*50" name="DR. SHAMSUL ANUAR BIN SHAMSUDIN" short="DR. SHAMSUL ANUAR" htmlexportlink="teachers_0.html?frame=49"/>
+      <teacher id="*51" name=" DR. SITI HAJAR BINTI SHEIKH MD. FADZULLAH" short="DR. SITI HAJAR" htmlexportlink="teachers_1.html?frame=0"/>
+      <teacher id="*52" name=" DR. SITI NURHAIDA BINTI KHALIL" short="DR. SITI NURHAIDA" htmlexportlink="teachers_1.html?frame=1"/>
+      <teacher id="*53" name=" DR. SUHAILA BINTI SALLEH" short="DR. SUHAILA" htmlexportlink="teachers_1.html?frame=2"/>
+      <teacher id="*54" name=" DR. SUHAIMI BIN MISHA" short="DR. SUHAIMI" htmlexportlink="teachers_1.html?frame=3"/>
+      <teacher id="*55" name=" DR. TEE BOON TUAN" short="DR. TEE BOON TUAN" htmlexportlink="teachers_1.html?frame=4"/>
+      <teacher id="*56" name=" DR. YUSMADY BIN MOHAMED ARIFIN" short="DR. YUSMADY" htmlexportlink="teachers_1.html?frame=5"/>
+      <teacher id="*57" name="EN. ALBERT" short="EN. ALBERT" htmlexportlink="teachers_1.html?frame=6"/>
+      <teacher id="*58" name="EN. AMIR ARIS" short="EN. AMIR ARIS" htmlexportlink="teachers_1.html?frame=7"/>
+      <teacher id="*59" name="DR. MOHD RODY BIN MOHAMAD ZIN" short="DR.  MOHD RODY" htmlexportlink="teachers_1.html?frame=8"/>
+      <teacher id="*60" name="EN. ZULKIFLI" short="EN. ZULKIFLI" htmlexportlink="teachers_1.html?frame=9"/>
+      <teacher id="*61" name="EN. ADZNI BIN SAAD" short="EN. ADZNI" htmlexportlink="teachers_1.html?frame=10"/>
+      <teacher id="*62" name=" EN. FAIZIL BIN WASBARI" short="EN. FAIZIL" htmlexportlink="teachers_1.html?frame=11"/>
+      <teacher id="*63" name=" EN. FAIZUL AKMAR BIN ABDUL KADIR" short="EN. FAIZUL" htmlexportlink="teachers_1.html?frame=12"/>
+      <teacher id="*64" name="EN. FEBRIAN BIN IDRAL" short="EN. FEBRIAN" htmlexportlink="teachers_1.html?frame=13"/>
+      <teacher id="*65" name="EN. HAIRUL BIN BAKRI" short="EN. HAIRUL" htmlexportlink="teachers_1.html?frame=14"/>
+      <teacher id="*66" name=" EN. IMRAN SYAKIR BIN MOHAMAD" short="EN. IMRAN SYAKIR" htmlexportlink="teachers_1.html?frame=15"/>
+      <teacher id="*67" name=" EN. MASJURI BIN MUSA @ OTHMAN" short="EN. MASJURI" htmlexportlink="teachers_1.html?frame=16"/>
+      <teacher id="*68" name=" EN. MOHAMED HAFIZ BIN MD ISA" short="EN. MOHAMED HAFIZ" htmlexportlink="teachers_1.html?frame=17"/>
+      <teacher id="*69" name=" EN. MOHD HANIF BIN HARUN" short="EN. HANIF" htmlexportlink="teachers_1.html?frame=18"/>
+      <teacher id="*70" name=" EN. MOHD NAZIM BIN ABDUL RAHMAN" short="EN. NAZIM" htmlexportlink="teachers_1.html?frame=19"/>
+      <teacher id="*71" name="EN. MOHD SHUKRI BIN ZAKARIA" short="EN. SHUKRI ZAKARIA" htmlexportlink="teachers_1.html?frame=20"/>
+      <teacher id="*72" name=" EN. SHAMSUL BAHARI BIN AZRAAI" short="EN. SHAMSUL BAHARI" htmlexportlink="teachers_1.html?frame=21"/>
+      <teacher id="*73" name="EN. WAN MOHD FARID BIN WAN MOHAMAD " short="EN. WAN FARID" htmlexportlink="teachers_1.html?frame=22"/>
+      <teacher id="*74" name=" EN. WAN MOHD ZAILIMI BIN WAN ABDULLAH" short="EN. WAN ZAILIMI" htmlexportlink="teachers_1.html?frame=23"/>
+      <teacher id="*75" name="EN. ZAIRULAZHA BIN ZAINAL" short="EN. ZAIRULAZHA" htmlexportlink="teachers_1.html?frame=24"/>
+      <teacher id="*76" name="IR. FAUZAL NAIM" short="IR. FAUZAL" htmlexportlink="teachers_1.html?frame=25"/>
+      <teacher id="*77" name=" IR. DR. MOHD RIZAL BIN ALKAHARI" short="IR. RIZAL" htmlexportlink="teachers_1.html?frame=26"/>
+      <teacher id="*78" name="IR. DR. MOHD SHUKRI BIN YOB" short="IR. SHUKRI" htmlexportlink="teachers_1.html?frame=27"/>
+      <teacher id="*79" name="En. MA TIEN CHOON" short="En. MA TIEN CHOON" htmlexportlink="teachers_1.html?frame=28"/>
+      <teacher id="*80" name="PN. NORSAIDAH" short="PN. NORSAIDAH" htmlexportlink="teachers_1.html?frame=29"/>
+      <teacher id="*81" name="PN. NURDAYANA" short="PN. NURDAYANA" htmlexportlink="teachers_1.html?frame=30"/>
+      <teacher id="*82" name="PENSYARAH PBPI " short="PBPI " htmlexportlink="teachers_1.html?frame=31"/>
+      <teacher id="*83" name="PROF. MADYA DR. KASRUL" short="PM DR. KASRUL" htmlexportlink="teachers_1.html?frame=32"/>
+      <teacher id="*84" name="PROF. MADYA DR. NOR AZMAN ABU" short="PM NOR AZMAN " htmlexportlink="teachers_1.html?frame=33"/>
+      <teacher id="*85" name=" PN. ANITA AKMAR BINTI KAMAROLZAMAN" short="PN. ANITA" htmlexportlink="teachers_1.html?frame=34"/>
+      <teacher id="*86" name="PN. NORASRA BINTI A. RAHMAN" short="PN. NORASRA" htmlexportlink="teachers_1.html?frame=35"/>
+      <teacher id="*87" name=" PN. NORTAZI BINTI SANUSI" short="PN NORTAZI" htmlexportlink="teachers_1.html?frame=36"/>
+      <teacher id="*88" name=" PN. ZAKIAH BINTI ABD HALIM" short="PN. ZAKIAH" htmlexportlink="teachers_1.html?frame=37"/>
+      <teacher id="*89" name="PROF. IR. DR. MOHD JAILANI MOHD NOR" short="PROF. JAILANI" htmlexportlink="teachers_1.html?frame=38"/>
+      <teacher id="*90" name=" PROF. DR. GHAZALI BIN OMAR" short="PROF. GHAZALI" htmlexportlink="teachers_1.html?frame=39"/>
+      <teacher id="*91" name="PROF. DR. MD. RADZAI BIN SAID" short="PROF. RADZAI" htmlexportlink="teachers_1.html?frame=40"/>
+      <teacher id="*92" name="PROF. DR. MD. RAZALI BIN AYOB" short="PROF. RAZALI" htmlexportlink="teachers_1.html?frame=41"/>
+      <teacher id="*93" name="PROF. MADYA ABD SALAM BIN MD TAHIR " short="PM ABD SALAM" htmlexportlink="teachers_1.html?frame=42"/>
+      <teacher id="*94" name="PROF. MADYA AHMAD RIVAI" short="PM. AHMAD RIVAI" htmlexportlink="teachers_1.html?frame=43"/>
+      <teacher id="*95" name=" PROF. MADYA AZMA PUTRA" short="PM. AZMA" htmlexportlink="teachers_1.html?frame=44"/>
+      <teacher id="*96" name=" PROF. MADYA DR. MOHD AHADLIN BIN MOHD DAUD" short="PM. AHADLIN" htmlexportlink="teachers_1.html?frame=45"/>
+      <teacher id="*97" name=" PROF. MADYA DR. MOHD FADZLI BIN ABDOLLAH" short="PM. FADZLI ABDOLLAH" htmlexportlink="teachers_1.html?frame=46"/>
+      <teacher id="*98" name=" PROF. MADYA DR. MOHD JUZAILA BIN ABD. LATIF" short="DR. JUZAILA" htmlexportlink="teachers_1.html?frame=47"/>
+      <teacher id="*99" name=" PROF. MADYA DR. MOHD ZULKEFLI BIN SELAMAT" short="PM ZULKEFLI SELAMAT" htmlexportlink="teachers_1.html?frame=48"/>
+      <teacher id="*100" name=" PROF. MADYA DR. MUSTHAFAH BIN MOHD TAHIR" short="PM. MUSTHAFAH" htmlexportlink="teachers_1.html?frame=49"/>
+      <teacher id="*101" name=" PROF. MADYA DR. ROSZAIDI BIN RAMLAN" short="PM. ROSZAIDI" htmlexportlink="teachers_2.html?frame=0"/>
+      <teacher id="*102" name=" PROF. MADYA DR. SIVAKUMAR A/L DHAR MALINGAM" short="PM. SIVAKUMAR" htmlexportlink="teachers_2.html?frame=1"/>
+      <teacher id="*103" name=" PROF. MADYA DR. NOREFFENDY BIN TAMALDIN" short="DR. NOREFFENDY" htmlexportlink="teachers_2.html?frame=2"/>
+      <teacher id="*104" name="PROF. MADYA IR. DR.ABDUL TALIB BIN DIN" short="IR. TALIB" htmlexportlink="teachers_2.html?frame=3"/>
+      <teacher id="*105" name="PN. NOOR BAIDURI" short="PN. NOOR BAIDURI" htmlexportlink="teachers_2.html?frame=4"/>
+      <teacher id="*106" name="PN. MARIAM" short="PN. MARIAM" htmlexportlink="teachers_2.html?frame=5"/>
+      <teacher id="*107" name="PN. NADIAH" short="PN. NADIAH" htmlexportlink="teachers_2.html?frame=6"/>
+      <teacher id="*108" name="PN. NOOR MASLIAN" short="PN. NOOR MASLIAN" htmlexportlink="teachers_2.html?frame=7"/>
+      <teacher id="*109" name="PN. NOR HAZLEN NIZA" short="PN. NOR HAZLEN NIZA" htmlexportlink="teachers_2.html?frame=8"/>
+      <teacher id="*110" name="PN. NOR RATNA" short="PN. NOR RATNA" htmlexportlink="teachers_2.html?frame=9"/>
+      <teacher id="*111" name="PN. RAZILAH" short="PN. RAZILAH" htmlexportlink="teachers_2.html?frame=10"/>
+      <teacher id="*112" name="PN. SUBATIRA " short="PN. SUBATIRA" htmlexportlink="teachers_2.html?frame=11"/>
+      <teacher id="*113" name="PN. ZARITA" short="PN. ZARITA" htmlexportlink="teachers_2.html?frame=12"/>
+      <teacher id="*114" name="DR. ELIA ERWANI" short="DR. ELIA ERWANI" htmlexportlink="teachers_2.html?frame=13"/>
+      <teacher id="*115" name="DR. RAIHANA SYAHIRAH" short="DR. RAIHANAH" htmlexportlink="teachers_2.html?frame=14"/>
+      <teacher id="*116" name="PENSYARAH A FTMK" short="PENSYARAH A FTMK" htmlexportlink="teachers_2.html?frame=15"/>
+      <teacher id="*117" name="PROF. MADYA DR. SAKINAH" short="PM DR. SAKINAH" htmlexportlink="teachers_2.html?frame=16"/>
+      <teacher id="*118" name="PN. NUR ASMIZA" short="PN. NUR ASMIZA" htmlexportlink="teachers_2.html?frame=17"/>
+      <teacher id="*119" name="DR MOHD FAUZI BIN KAMARUDIN" short="DR MOHD FAUZI" htmlexportlink="teachers_2.html?frame=18"/>
+      <teacher id="*120" name="PBPI ARAB" short="PBPI ARAB" htmlexportlink="teachers_2.html?frame=19"/>
+      <teacher id="*121" name="PBPI MANDARIN" short="PBPI MANDARIN" htmlexportlink="teachers_2.html?frame=20"/>
+      <teacher id="*122" name="PBPI JEPUN" short="PBPI JEPUN" htmlexportlink="teachers_2.html?frame=21"/>
+      <teacher id="*123" name="DR. AHMAD KAMAL BIN MAT YAMIN (PG)" short="DR AHMAD KAMAL (PG)" htmlexportlink="teachers_2.html?frame=22"/>
+      <teacher id="*124" name="DR. NOR SALIM BIN MUHAMMAD (PG)" short="DR. NORSALIM (PG)" htmlexportlink="teachers_2.html?frame=23"/>
+      <teacher id="*125" name="DR. FAUZI BIN AHMAD (PG)" short="DR. FAUZI (PG)" htmlexportlink="teachers_2.html?frame=24"/>
+      <teacher id="*126" name="PROF. MADYA AZMA PUTRA (PG)" short="PM AZMA (PG)" htmlexportlink="teachers_2.html?frame=25"/>
+      <teacher id="*127" name="DR. RAINAH BINTI ISMAIL (PG)" short="DR. RAINAH (PG)" htmlexportlink="teachers_2.html?frame=26"/>
+      <teacher id="*128" name="PROF MADYA DR. ROZSZAIDI BIN RAMLAN (PG)" short="PM  ROZSZAIDI (PG)" htmlexportlink="teachers_2.html?frame=27"/>
+      <teacher id="*129" name="DR. MOHD AZLI BIN SALIM (PG)" short="DR. AZLI (PG)" htmlexportlink="teachers_2.html?frame=28"/>
+      <teacher id="*130" name="EN. FAIZUL AKMAR BIN ABDUL KADIR (PG)" short="EN. FAIZUL (PG)" htmlexportlink="teachers_2.html?frame=29"/>
+      <teacher id="*131" name="PROF. MADYA DR. MUSTHAFAH BIN MOHD TAHIR (PG)" short="PM MUSTHAFAH (PG)" htmlexportlink="teachers_2.html?frame=30"/>
+      <teacher id="*132" name="DR. FUDHAIL BIN ABDUL MUNIR (PG)" short="DR. FUDHAIL (PG)" htmlexportlink="teachers_2.html?frame=31"/>
+      <teacher id="*133" name="DR. ADNAN BIN ROSELI (PG)" short="DR. ADNAN (PG)" htmlexportlink="teachers_2.html?frame=32"/>
+      <teacher id="*134" name="DR. FAIZ REDZA BIN RAMLI (PG)" short="DR. FAIZ (PG)" htmlexportlink="teachers_2.html?frame=33"/>
+      <teacher id="*135" name="DR. SITI HAJAR BIN SHEIKH MD. FADZULLAH (PG)" short="DR. SITI HAJAR  (PG)" htmlexportlink="teachers_2.html?frame=34"/>
+      <teacher id="*136" name="DR. NAZRI BIN MD DAUD (PG)" short="DR. NAZRI (PG)" htmlexportlink="teachers_2.html?frame=35"/>
+      <teacher id="*137" name="DR. AHMAD ANAS BIN YUSOF (PG)" short="DR. ANAS (PG)" htmlexportlink="teachers_2.html?frame=36"/>
+      <teacher id="*138" name="DR. ERNIE BINTI MAT TOKIT (PG)" short="DR. ERNIE (PG)" htmlexportlink="teachers_2.html?frame=37"/>
+      <teacher id="*139" name="DR. MOHD AFZANIZAM BIN MOHD ROSLI (PG)" short="DR. AFZANIZAM (PG)" htmlexportlink="teachers_2.html?frame=38"/>
+      <teacher id="*140" name="DR. SUHAIMI BIN MISHA (PG)" short="DR. SUHAIMI (PG)" htmlexportlink="teachers_2.html?frame=39"/>
+      <teacher id="*141" name="DR. FADHLI BIN SYAHRIAL (PG)" short="DR. FADHLI (PG)" htmlexportlink="teachers_2.html?frame=40"/>
+      <teacher id="*142" name="DR. REDUAN BIN MAT DAN (PG)" short="DR. REDUAN (PG)" htmlexportlink="teachers_2.html?frame=41"/>
+      <teacher id="*143" name="DR. TEE BOON TUAN (PG)" short="DR. TEE (PG)" htmlexportlink="teachers_2.html?frame=42"/>
+      <teacher id="*144" name="DR. YUSMADY BIN MOHAMED ARIFIN (PG)" short="DR. YUSMADY (PG)" htmlexportlink="teachers_2.html?frame=43"/>
+      <teacher id="*145" name="DR. MD. ISA BIN ALI (PG)" short="DR. MD. ISA (PG)" htmlexportlink="teachers_2.html?frame=44"/>
+      <teacher id="*146" name="PROF. MADYA DR NOREFFENDY BIN TAMALDIN (PG)" short="PM NOREFFENDY (P" htmlexportlink="teachers_2.html?frame=45"/>
+      <teacher id="*147" name="PROF. MADYA AHMAD RIVAI (PG)" short="PM AHMAD RIVAI (PG" htmlexportlink="teachers_2.html?frame=46"/>
+      <teacher id="*148" name="PROF. DR GHAZALI BIN OMAR (PG)" short="PROF. GHAZALI (PG)" htmlexportlink="teachers_2.html?frame=47"/>
+   </teachers>
+   <classes options="import:disable,canadd,canremove,canupdate,primarytt,silent" columns="id,name, short,htmlexportlink">
+      <class id="*1" name="1DMC (S1)" htmlexportlink="index.html?frame=0"/>
+      <class id="*2" name="1DMC(S2)" htmlexportlink="index.html?frame=1"/>
+      <class id="*3" name="1DMC(S3)" htmlexportlink="index.html?frame=2"/>
+      <class id="*4" name="1DMC(S4)" htmlexportlink="index.html?frame=3"/>
+      <class id="*5" name="2DMC(S1)" htmlexportlink="index.html?frame=4"/>
+      <class id="*6" name="2DMC(S2)" htmlexportlink="index.html?frame=5"/>
+      <class id="*7" name="2DMC(S3)" htmlexportlink="index.html?frame=6"/>
+      <class id="*8" name="3DMC" htmlexportlink="index.html?frame=7"/>
+      <class id="*9" name="1BMCG(S1)" htmlexportlink="index.html?frame=8"/>
+      <class id="*10" name="1BMCG(S2)" htmlexportlink="index.html?frame=9"/>
+      <class id="*11" name="1BMCG(S3)" htmlexportlink="index.html?frame=10"/>
+      <class id="*12" name="1BMCG(S4)" htmlexportlink="index.html?frame=11"/>
+      <class id="*13" name="1BMCG(S5)" htmlexportlink="index.html?frame=12"/>
+      <class id="*14" name="1BMCG(S6)" htmlexportlink="index.html?frame=13"/>
+      <class id="*15" name="1BMCG(S7)" htmlexportlink="index.html?frame=14"/>
+      <class id="*16" name="1BMCG(S8)" htmlexportlink="index.html?frame=15"/>
+      <class id="*17" name="1BMCG(S9)" htmlexportlink="index.html?frame=16"/>
+      <class id="*18" name="2BMCG(S1)" htmlexportlink="index.html?frame=17"/>
+      <class id="*19" name="2BMCG(S2)" htmlexportlink="index.html?frame=18"/>
+      <class id="*20" name="2BMCG(S3)" htmlexportlink="index.html?frame=19"/>
+      <class id="*21" name="2BMCG(S4)" htmlexportlink="index.html?frame=20"/>
+      <class id="*22" name="2BMCG(S5)" htmlexportlink="index.html?frame=21"/>
+      <class id="*23" name="2BMCG(S6)" htmlexportlink="index.html?frame=22"/>
+      <class id="*24" name="2BMCG(S7)" htmlexportlink="index.html?frame=23"/>
+      <class id="*25" name="2BMCG(S8)" htmlexportlink="index.html?frame=24"/>
+      <class id="*26" name="2BMCG(S9)" htmlexportlink="index.html?frame=25"/>
+      <class id="*27" name="3BMCG(S1)" htmlexportlink="index.html?frame=26"/>
+      <class id="*28" name="3BMCG(S2)" htmlexportlink="index.html?frame=27"/>
+      <class id="*29" name="3BMCG(S3)" htmlexportlink="index.html?frame=28"/>
+      <class id="*30" name="3BMCG(S4)" htmlexportlink="index.html?frame=29"/>
+      <class id="*31" name="3BMCG(S5)" htmlexportlink="index.html?frame=30"/>
+      <class id="*32" name="3BMCG(S6)" htmlexportlink="index.html?frame=31"/>
+      <class id="*33" name="3BMCG(S7)" htmlexportlink="index.html?frame=32"/>
+      <class id="*34" name="3BMCG(S8)" htmlexportlink="index.html?frame=33"/>
+      <class id="*35" name="3BMCG(S9)" htmlexportlink="index.html?frame=34"/>
+      <class id="*36" name="4BMCG(S1)" htmlexportlink="index.html?frame=35"/>
+      <class id="*37" name="4BMCG(S2)" htmlexportlink="index.html?frame=36"/>
+      <class id="*38" name="4BMCG(S3)" htmlexportlink="index.html?frame=37"/>
+      <class id="*39" name="4BMCG(S4)" htmlexportlink="index.html?frame=38"/>
+      <class id="*40" name="4BMCG(S5)" htmlexportlink="index.html?frame=39"/>
+      <class id="*41" name="4BMCG(S6)" htmlexportlink="index.html?frame=40"/>
+      <class id="*42" name="4BMCG(S7)" htmlexportlink="index.html?frame=41"/>
+      <class id="*43" name="4BMCG(S8)" htmlexportlink="index.html?frame=42"/>
+      <class id="*44" name="4BMCG(S9)" htmlexportlink="index.html?frame=43"/>
+      <class id="*45" name="1BEKG (S1)" htmlexportlink="index.html?frame=44"/>
+      <class id="*46" name="1BEKG (S2)" htmlexportlink="index.html?frame=45"/>
+      <class id="*47" name="1BEKG (S3)" htmlexportlink="index.html?frame=46"/>
+      <class id="*48" name="1BEKG (S4)" htmlexportlink="index.html?frame=47"/>
+      <class id="*49" name="1BEKG (S5)" htmlexportlink="index.html?frame=48"/>
+      <class id="*50" name="1BEKG (S6)" htmlexportlink="index.html?frame=49"/>
+      <class id="*51" name="1BEKG (S7)" htmlexportlink="index.html?frame=50"/>
+      <class id="*52" name="1BEKM (S1)" htmlexportlink="index.html?frame=51"/>
+      <class id="*53" name="1BEKM (S2)" htmlexportlink="index.html?frame=52"/>
+      <class id="*54" name="1BEKM (S3)" htmlexportlink="index.html?frame=53"/>
+      <class id="*55" name="1BEKM (S4)" htmlexportlink="index.html?frame=54"/>
+      <class id="*56" name="UM (SEE LECTURER)" htmlexportlink="index.html?frame=55"/>
+      <class id="*57" name="DEK(S1)" htmlexportlink="index.html?frame=56"/>
+      <class id="*58" name="DEK(S2)" htmlexportlink="index.html?frame=57"/>
+      <class id="*59" name="2BEKG(S1)" htmlexportlink="index.html?frame=58"/>
+      <class id="*60" name="2BEKG(S2)" htmlexportlink="index.html?frame=59"/>
+      <class id="*61" name="2BEKG(S3)" htmlexportlink="index.html?frame=60"/>
+      <class id="*62" name="2BTMI(S1)" htmlexportlink="index.html?frame=61"/>
+      <class id="*63" name="2BTMI(S2)" htmlexportlink="index.html?frame=62"/>
+      <class id="*64" name="2BTMM(S1)" htmlexportlink="index.html?frame=63"/>
+      <class id="*65" name="2BTMM(S2)" htmlexportlink="index.html?frame=64"/>
+      <class id="*66" name="2BETA" htmlexportlink="index.html?frame=65"/>
+      <class id="*67" name="2BETH" htmlexportlink="index.html?frame=66"/>
+      <class id="*68" name="2BETC" htmlexportlink="index.html?frame=67"/>
+      <class id="*69" name="3BETT" htmlexportlink="index.html?frame=68"/>
+      <class id="*70" name="3BETE" htmlexportlink="index.html?frame=69"/>
+      <class id="*71" name="3BEKM (S1)" htmlexportlink="index.html?frame=70"/>
+      <class id="*72" name="2BEKM" htmlexportlink="index.html?frame=71"/>
+      <class id="*73" name="BAHASA KETIGA" htmlexportlink="index.html?frame=72"/>
+      <class id="*74" name="3BEKM (S2)" htmlexportlink="index.html?frame=73"/>
+      <class id="*75" name="1DMF(S1)" htmlexportlink="index.html?frame=74"/>
+      <class id="*76" name="1DMF(S2)" htmlexportlink="index.html?frame=75"/>
+      <class id="*77" name="MMCV" htmlexportlink="index.html?frame=76"/>
+      <class id="*78" name="MMCE" htmlexportlink="index.html?frame=77"/>
+   </classes>
+   <subjects options="import:disable,canadd,canremove,canupdate,primarytt,silent" columns="id,name,short,htmlexportlink">
+      <subject id="*1" name="BAHASA JERMAN" short="B JERMAN" htmlexportlink=""/>
+      <subject id="*2" name="BAHASA KOREA" short="B KOREA" htmlexportlink=""/>
+      <subject id="*3" name="PRINSIP ELEKTIK DAN ELEKTRONIK" short="BEKG 1123" htmlexportlink=""/>
+      <subject id="*4" name="PRINSIP INSTRUMENTASI DAN PENGUKURAN" short="BEKG 1233" htmlexportlink=""/>
+      <subject id="*5" name="KAEDAH BERANGKA " short="BEKG 2452" htmlexportlink=""/>
+      <subject id="*6" name="STATISTIK " short="BENG 2142" htmlexportlink=""/>
+      <subject id="*7" name="JURUTERA DAN MASYARAKAT (S9)" short="BENG 4322" htmlexportlink=""/>
+      <subject id="*8" name="PEMBUATAN BERBANTU KOMPUTER (FTK)" short="BETD2513" htmlexportlink=""/>
+      <subject id="*9" name="CAD/CAM (FTK)" short="BETP2514" htmlexportlink=""/>
+      <subject id="*10" name="PENGATURCARAAN KOMPUTER" short="BITG 1233" htmlexportlink=""/>
+      <subject id="*11" name="BLHW 2403" short="BLHW 2403" htmlexportlink=""/>
+      <subject id="*12" name="BLHW 3403" short="BLHW 3403" htmlexportlink=""/>
+      <subject id="*13" name="PENCIRIAN BAHAN KEJURUTERAAN" short="BMCB 4473" htmlexportlink=""/>
+      <subject id="*14" name="KEJURUTERAAN KAWALAN &amp; INSTRUMENTASI (UM)" short="BMCC 3733" htmlexportlink=""/>
+      <subject id="*15" name="PENGUKURAN &amp; INSTRUMENTASI (UM)" short="BMCC 4743" htmlexportlink=""/>
+      <subject id="*16" name="REKABENTUK KOMPONEN MESIN (UM)" short="BMCD 3523" htmlexportlink=""/>
+      <subject id="*17" name="PENGURUSAN TENAGA" short="BMCE 4213" htmlexportlink=""/>
+      <subject id="*18" name="PENYENGGARAAN BANGUNAN" short="BMCE 4223" htmlexportlink=""/>
+      <subject id="*19" name="TENAGA BOLEH DIPERBAHARUI (UM)" short="BMCE 4233" htmlexportlink=""/>
+      <subject id="*20" name="SISTEM KUASA BENDALIR (UM)" short="BMCF 3263" htmlexportlink=""/>
+      <subject id="*21" name="MESIN TURBO" short="BMCF 4253" htmlexportlink=""/>
+      <subject id="*22" name="STATIK &amp; MEKANIK BAHAN" short="BMCG1123 " htmlexportlink=""/>
+      <subject id="*23" name=" MAKMAL KEJURUTERAAN MEKANIKAL 1 " short="BMCG 1011" htmlexportlink=""/>
+      <subject id="*24" name="PERSAMAAN PEMBEZAAN " short="BMCG 1013" htmlexportlink=""/>
+      <subject id="*25" name="STATIK (UM)" short="BMCG 1113" htmlexportlink=""/>
+      <subject id="*26" name="DINAMIK" short="BMCG 1213" htmlexportlink=""/>
+      <subject id="*27" name="DINAMIK &amp; MEKANISME" short="BMCG 1253 " htmlexportlink=""/>
+      <subject id="*28" name="GRAFIK KEJURUTERAAN DAN CAD (BEKG" short="BMCG 1523" htmlexportlink=""/>
+      <subject id="*29" name="GRAFIK KEJURUTERAAN DAN CAD (BEKM " short="BMCG 1523 " htmlexportlink=""/>
+      <subject id="*30" name="MAKMAL KEJURUTERAAN MEKANIKAL 2 (S9)" short="BMCG 2011" htmlexportlink=""/>
+      <subject id="*31" name="BENGKEL KEJURUTERAAN MEKANIKAL" short="BMCG 2021" htmlexportlink=""/>
+      <subject id="*32" name=" MEKANIK PEPEJAL 1 (S9)" short="BMCG 2113" htmlexportlink=""/>
+      <subject id="*33" name="TEKNOLOGI MIKROPEMPROSES" short="BMCG 2212" htmlexportlink=""/>
+      <subject id="*34" name="ASAS PENGURUSAN TENAGA (BTMI - S1)" short="BMCG 2213" htmlexportlink=""/>
+      <subject id="*35" name="PROSES PEMBUATAN " short="BMCG 2312" htmlexportlink=""/>
+      <subject id="*36" name="PROSES PEMBUATAN (BMTM " short="BMCG 2323" htmlexportlink=""/>
+      <subject id="*37" name="PENGANTAR KEJURUTERAAN MEKANIKAL " short="BMCG 2432" htmlexportlink=""/>
+      <subject id="*38" name="REKABENTUK DAN PEMBUATAN BERBANTU KOMPUTER " short="BMCG 2513" htmlexportlink=""/>
+      <subject id="*39" name="MEKANIK BENDALIR 1 (S9)" short="BMCG 2613" htmlexportlink=""/>
+      <subject id="*40" name="TERMODINAMIK 1 (S9)" short="BMCG 2713" htmlexportlink=""/>
+      <subject id="*41" name="MEKANIK PEPEJAL 2 " short="BMCG 3113" htmlexportlink=""/>
+      <subject id="*42" name="KEJURUTERAAN KAWALAN " short="BMCG 3223" htmlexportlink=""/>
+      <subject id="*43" name="GETARAN MEKANIKAL" short="BMCG 3233" htmlexportlink=""/>
+      <subject id="*44" name="REKABENTUK KEJURUTERAAN (S9)" short="BMCG 3313" htmlexportlink=""/>
+      <subject id="*45" name="REKABENTUK MEKANIKAL (S9)" short="BMCG 3333" htmlexportlink=""/>
+      <subject id="*46" name="MEKANIK BENDALIR 2 (UM)" short="BMCG 3613" htmlexportlink=""/>
+      <subject id="*47" name="MEKANIK BENDALIR 2 (S9)" short="BMCG 3613" htmlexportlink=""/>
+      <subject id="*48" name="SISTEM HIDRAULIK &amp; PNEUMATIK (BEKM S1)" short="BMCG 3643 " htmlexportlink=""/>
+      <subject id="*49" name="TERMODINAMIK &amp; PEMINDAHAN HABA (BEKM S1)" short="BMCG 3653 " htmlexportlink=""/>
+      <subject id="*50" name="TERMODINAMIK 2 (S9)" short="BMCG 3713" htmlexportlink=""/>
+      <subject id="*51" name="PEMINDAHAN HABA DAN JISIM " short="BMCG 3723" htmlexportlink=""/>
+      <subject id="*52" name="MEKANIK PEPEJAL LANJUTAN (E)" short="BMCG 4123" htmlexportlink=""/>
+      <subject id="*53" name="PEMANTAUAN GETARAN BAGI MESIN BERPUTAR (E)" short="BMCG 4213 " htmlexportlink=""/>
+      <subject id="*54" name="REKA BENTUK MEKANISME (E)" short="BMCG 4313 " htmlexportlink=""/>
+      <subject id="*55" name="REKA BENTUK UNTUK KEBOLEHARAPAN DAN KUALITI (E)" short="BMCG 4333" htmlexportlink=""/>
+      <subject id="*56" name="PENGOPTIMUMAN REKA BENTUK (E)" short="BMCG 4343 " htmlexportlink=""/>
+      <subject id="*57" name=" KOMPOSIT &amp; BAHAN TERMAJU (E)" short="BMCG 4423" htmlexportlink=""/>
+      <subject id="*58" name=" METALURGI (E)" short="BMCG 4433" htmlexportlink=""/>
+      <subject id="*59" name="DINAMIK BENDALIR BERKOMPUTER (E)" short="BMCG 4613" htmlexportlink=""/>
+      <subject id="*60" name="KUASA BENDALIR DAN MESIN TURBO (E)" short="BMCG 4623 " htmlexportlink=""/>
+      <subject id="*61" name="SISTEM LOJI KUASA (E)" short="BMCG 4733 " htmlexportlink=""/>
+      <subject id="*62" name="KELESTARIAN DAN ALAM SEKITAR" short="BMCG 4812" htmlexportlink=""/>
+      <subject id="*63" name="KELESTARIAN DAN ALAM SEKITAR (S9)" short="BMCG 4812 " htmlexportlink=""/>
+      <subject id="*64" name="ANALISIS SERPIHAN KEHAUSAN DAN ANALISIS(E)" short="BMCG 4833 " htmlexportlink=""/>
+      <subject id="*65" name="PEMANTAUAN STRUKTUR BAHAN (E)" short="BMCG 4843 " htmlexportlink=""/>
+      <subject id="*66" name="ENJIN PEMBAKARAN DALAM (E)" short="BMCG 4943" htmlexportlink=""/>
+      <subject id="*67" name=" MAKMAL STRUKTUR &amp; BAHAN 2 (UM)" short="BMCH 3921" htmlexportlink=""/>
+      <subject id="*68" name=" MAKMAL KEJURUTERAAN MEKANIKAL 1A (UM)" short="BMCJ 1911" htmlexportlink=""/>
+      <subject id="*69" name="REKABENTUK &amp; TEKNOLOGI LOJI (UM)" short="BMCL 3113" htmlexportlink=""/>
+      <subject id="*70" name="ANALISIS &amp; PEMANTAUAN GETARAN" short="BMCL 4132" htmlexportlink=""/>
+      <subject id="*71" name="MEKANIK MESIN (UM)" short="BMCM 2723" htmlexportlink=""/>
+      <subject id="*72" name="KEJURUTERAAN BERBANTU KOMPUTER (UM)" short="BMCN 3533" htmlexportlink=""/>
+      <subject id="*73" name="ASAS KEJURUTERAAN PENYENGGARAAN &amp; LOJI (UM)" short="BMCP 3112" htmlexportlink=""/>
+      <subject id="*74" name="MAKMAL LOJI DAN PENYENGGARAAN 2 (UM)" short="BMCP 3921" htmlexportlink=""/>
+      <subject id="*75" name="PENYENGGARAAN BERASAS KEADAAN" short="BMCP 4113" htmlexportlink=""/>
+      <subject id="*76" name="PENGURUSAN PENYENGGARAAN &amp; STRATEGI" short="BMCP 4123" htmlexportlink=""/>
+      <subject id="*77" name="KEBOLEHKEPERCAYAAN, KEBOLEHSELENGGARA &amp; RISIKO" short="BMCP 4142" htmlexportlink=""/>
+      <subject id="*78" name="MAKMAL REKABENTUK &amp; INOVASI 1 " short="BMCQ 3911" htmlexportlink=""/>
+      <subject id="*79" name="MAKMAL REKA BENTUK DAN INOVASI 3" short="BMCQ 4931" htmlexportlink=""/>
+      <subject id="*80" name="ANALISIS UNSUR TAK TERHINGGA (UM)" short="BMCS 3363" htmlexportlink=""/>
+      <subject id="*81" name=" MEKANIK PATAH (UM)" short="BMCS 4363" htmlexportlink=""/>
+      <subject id="*82" name="MEKANIK HENTAM" short="BMCS 4393" htmlexportlink=""/>
+      <subject id="*83" name="PEMINDAHAN HABA &amp; JISIM" short="BMCT 3143" htmlexportlink=""/>
+      <subject id="*84" name="SISTEM PENYEJUKAN &amp; PENYAMAN UDARA (UM)" short="BMCT 4153" htmlexportlink=""/>
+      <subject id="*85" name="PERSAMAAN PEMBEZAAN (UM)" short="BMCU 1062" htmlexportlink=""/>
+      <subject id="*86" name="PROJEK REKABENTUK BERSEPADU (K1A&amp;B)" short="BMCU 3013" htmlexportlink=""/>
+      <subject id="*87" name="MAKMAL TERMAL BENDALIR 3 (UM)" short="BMCY 4931" htmlexportlink=""/>
+      <subject id="*88" name="KEJURUTERAAN BAHAN (UM)" short="BMFG 1213" htmlexportlink=""/>
+      <subject id="*89" name="PENGURUSAN KEJURUTERAAN DAN EKONOMI" short="BMFG 4623" htmlexportlink=""/>
+      <subject id="*90" name="BTMW 4012" short="BTMW 4012" htmlexportlink=""/>
+      <subject id="*91" name="KIMIA" short="DACS 1232" htmlexportlink=""/>
+      <subject id="*92" name="KIMIA (MAKMAL 1&amp;2)" short="DACS 1232 " htmlexportlink=""/>
+      <subject id="*93" name="ASAS ELEKTRIK DAN MIKROPEMPROSESAN" short="DENG 2223" htmlexportlink=""/>
+      <subject id="*94" name="DINAMIK  KENDERAAN " short="DK" htmlexportlink=""/>
+      <subject id="*95" name="DLHW 3432" short="DLHW 3432" htmlexportlink=""/>
+      <subject id="*96" name="SAINS BAHAN (UM)" short="DMCB 2423" htmlexportlink=""/>
+      <subject id="*97" name="GRAFIK KEJURUTERAAN " short="DMCD 1543" htmlexportlink=""/>
+      <subject id="*98" name="MEKANIK BENDALIR 1 " short="DMCF 2213" htmlexportlink=""/>
+      <subject id="*99" name="MEKANIK BENDALIR 2 (UM)" short="DMCF 3233" htmlexportlink=""/>
+      <subject id="*100" name="PENGANTAR SISTEM MEKANIKAL" short="DMCG 1323" htmlexportlink=""/>
+      <subject id="*101" name="DINAMIK (UM)" short="DMCM 2713" htmlexportlink=""/>
+      <subject id="*102" name="MEKANIK MESIN (UM)" short="DMCM 3723" htmlexportlink=""/>
+      <subject id="*103" name="STATIK" short="DMCS 1313" htmlexportlink=""/>
+      <subject id="*104" name="MEKANIK PEPEJAL 2" short="DMCS 3333" htmlexportlink=""/>
+      <subject id="*105" name="TERMODINAMIK 1 (UM)" short="DMCT 2123" htmlexportlink=""/>
+      <subject id="*106" name="TERMODINAMIK 2 (UM)" short="DMCT 3123" htmlexportlink=""/>
+      <subject id="*107" name="KALKULUS" short="DMCU 1042" htmlexportlink=""/>
+      <subject id="*108" name="PROSES PEMBUATAN " short="DMCU 1323" htmlexportlink=""/>
+      <subject id="*109" name="PROSES PEMBUATAN" short="DMCU 1323" htmlexportlink=""/>
+      <subject id="*110" name="PERSAMAAN PEMBEZAAN" short="DMCU 2062" htmlexportlink=""/>
+      <subject id="*111" name="BENGKEL PRAKTIKAL KEJURUTERAAN DAN TEKNOLOGI 2 " short="DMCU 2922" htmlexportlink=""/>
+      <subject id="*112" name="STATISTIK" short="DMCU 3082" htmlexportlink=""/>
+      <subject id="*113" name="DTMW 1012" short="DTMW 1012" htmlexportlink=""/>
+      <subject id="*114" name="MMCA 5623/5643 MMCV 5663/5613" short="MMCA 5623/5643 MMCV 5663/5613" htmlexportlink=""/>
+      <subject id="*115" name=" KEBISINGAN, GETARAN &amp; KEKASARAN" short="MMCA 5643" htmlexportlink=""/>
+      <subject id="*116" name=" LESU DAN MEKANIK PATAH" short="MMCB 5433" htmlexportlink=""/>
+      <subject id="*117" name="TEKNOLOGI TENAGA BOLEH BAHARU" short="MMCE 5233" htmlexportlink=""/>
+      <subject id="*118" name="PEMANTAUAN DAN PENGESAHAN" short="MMCT 5123" htmlexportlink=""/>
+      <subject id="*119" name="PENGURUSAN TENAGA" short="MMCT 5223" htmlexportlink=""/>
+      <subject id="*120" name="TEKNOLOGI BIOBAHAN API" short="MMCT 5243" htmlexportlink=""/>
+      <subject id="*121" name="SISTEM RANGKAIAN KUASA KENDERAAN" short="MMCV 5613" htmlexportlink=""/>
+      <subject id="*122" name="DINAMIK KENDERAAN LANJUTAN" short="MMCV 5663" htmlexportlink=""/>
+      <subject id="*123" name="KAEDAH PENYELIDIKAN" short="MPSW 5013/PPSW 6013 " htmlexportlink=""/>
+      <subject id="*124" name="PERMODELAN DAN SIMULASI SISTEM KENDERAAN (E)" short="PDSSK(" htmlexportlink=""/>
+      <subject id="*125" name="SISTEM ELEKTRIK" short="BEKG 2433" htmlexportlink=""/>
+      <subject id="*126" name="PENGATURCARAAN KOMPUTER" short="DITG 1113" htmlexportlink=""/>
+      <subject id="*127" name="BMCG 4733/4123/4313/4913/4213" short="BMCG 4733/4123/4313/4913/4213" htmlexportlink=""/>
+      <subject id="*128" name="BMCG 4613/4423/4333/4943/4843" short="BMCG 4613/4423/4333/4943/4843" htmlexportlink=""/>
+      <subject id="*129" name="BMCG 4623/4433/4343/4953/4833" short="BMCG 4623/4433/4343/4953/4833" htmlexportlink=""/>
+      <subject id="*130" name="BAHASA JEPUN (FTK)" short="BLHL 1312" htmlexportlink=""/>
+      <subject id="*131" name="PEMIKIRAN KRITIKAL DAN KREATIF" short="BLHC 4032" htmlexportlink=""/>
+      <subject id="*132" name="BLHL 1112/1212/1312" short="BLHL 1112/1212/1312" htmlexportlink=""/>
+      <subject id="*133" name="PENGURUSAN PROJEK" short="MPSW 5073/PPSW 6071" htmlexportlink=""/>
+      <subject id="*134" name="MMCT 5223/5123/5243  MMCE 5233" short="MMCT 5223/5123/5243  MMCE 5233" htmlexportlink=""/>
+      <subject id="*135" name="INTEGRATED DESIGN PROJECT (IDP)" short="BMCU 3013 (IDP)" htmlexportlink=""/>
+   </subjects>
+   <classrooms options="import:disable,canadd,canremove,canupdate,primarytt,silent" columns="id,name,short,htmlexportlink">
+      <classroom id="*1" name="MAKMAL KIMIA " short="MK" htmlexportlink="rooms.html?frame=0"/>
+      <classroom id="*2" name="MAKMAL MEKANIK MESIN" short="MMM" htmlexportlink="rooms.html?frame=1"/>
+      <classroom id="*3" name="MAKMAL TRIBOLOGI" short="MTRi" htmlexportlink="rooms.html?frame=2"/>
+      <classroom id="*4" name="MAKMAL LOGI PANDU" short="MLP" htmlexportlink="rooms.html?frame=3"/>
+      <classroom id="*5" name="MAKMAL KEJURUTERAAN PENYELENGGARAAN" short="MKP" htmlexportlink="rooms.html?frame=4"/>
+      <classroom id="*6" name="MAKMAL PENYELENGGARAAN BERASASKAN KEADAAN " short="MPBK" htmlexportlink="rooms.html?frame=5"/>
+      <classroom id="*7" name="STUDIO LUKISAN KEJURUTERAAN 1" short="SLK 1" htmlexportlink="rooms.html?frame=6"/>
+      <classroom id="*8" name="STUDIO LUKISAN KEJURUTERAAN 2" short="SLK2" htmlexportlink="rooms.html?frame=7"/>
+      <classroom id="*9" name="STUDIO LAB VIEW" short="SLV" htmlexportlink="rooms.html?frame=8"/>
+      <classroom id="*10" name="STUDIO REKABENTUK LOGI" short="SRL" htmlexportlink="rooms.html?frame=9"/>
+      <classroom id="*11" name="MAKMAL KEKUATAN STRUKTUR BAHAN " short="MKSB" htmlexportlink="rooms.html?frame=10"/>
+      <classroom id="*12" name="BENGKEL GEGAS &amp; FABRIKASI" short="BGF" htmlexportlink="rooms.html?frame=11"/>
+      <classroom id="*13" name="BENGKEL KIMPALAN" short="BK" htmlexportlink="rooms.html?frame=12"/>
+      <classroom id="*14" name="BENGKEL MESIN" short="BM" htmlexportlink="rooms.html?frame=13"/>
+      <classroom id="*15" name="MAKMAL KUASA BENDALIR" short="MKB" htmlexportlink="rooms.html?frame=14"/>
+      <classroom id="*16" name="MAKMAL MEKANIK BENDALIR" short="MMB" htmlexportlink="rooms.html?frame=15"/>
+      <classroom id="*17" name="MAKMAL DINAMIK" short="MD" htmlexportlink="rooms.html?frame=16"/>
+      <classroom id="*18" name="MAKMAL MEKANIK STRUKTUR BAHAN" short="MMSB" htmlexportlink="rooms.html?frame=17"/>
+      <classroom id="*19" name="MAKMAL STATIK" short="MS" htmlexportlink="rooms.html?frame=18"/>
+      <classroom id="*20" name="MAKMAL MESIN TURBO" short="MMT" htmlexportlink="rooms.html?frame=19"/>
+      <classroom id="*21" name="MAKMAL PEMBAKARAN" short="MP" htmlexportlink="rooms.html?frame=20"/>
+      <classroom id="*22" name="MAKMAL PEMINDAHAN HABA" short="MPH" htmlexportlink="rooms.html?frame=21"/>
+      <classroom id="*23" name="MKAMAL PENYAMAN UDARA" short="MPU" htmlexportlink="rooms.html?frame=22"/>
+      <classroom id="*24" name="MAKMAL REKABENTUK AUTOMOTIF" short="MRA" htmlexportlink="rooms.html?frame=23"/>
+      <classroom id="*25" name="MAKMAL SAINS BAHAN" short="MSB" htmlexportlink="rooms.html?frame=24"/>
+      <classroom id="*26" name="MAKMAL TERMODINAMIK" short="MT" htmlexportlink="rooms.html?frame=25"/>
+      <classroom id="*27" name="MAKMAL KOMPOSIT &amp; UJIAN TANPA MUSNAH" short="MUTM" htmlexportlink="rooms.html?frame=26"/>
+      <classroom id="*28" name="MAKMAL ASAS AUTOMOTIF" short="MAA" htmlexportlink="rooms.html?frame=27"/>
+      <classroom id="*29" name="MAKMAL AUTOTRONIK" short="MA" htmlexportlink="rooms.html?frame=28"/>
+      <classroom id="*30" name="MAKMAL KEBISINGAN &amp; GETARAN KENDERAAN " short="MKGK" htmlexportlink="rooms.html?frame=29"/>
+      <classroom id="*31" name="MAKMAL KEJURUTERAAN KAWALAN" short="MKK" htmlexportlink="rooms.html?frame=30"/>
+      <classroom id="*32" name="MAKMAL PENGUKURAN &amp; INSTRUMENTASI" short="MI" htmlexportlink="rooms.html?frame=31"/>
+      <classroom id="*33" name="MAKMAL PERTUKANGAN KAYU " short="MPK" htmlexportlink="rooms.html?frame=32"/>
+      <classroom id="*34" name="MAKMAL PROTOTAIP &amp; INOVASI" short="MPI" htmlexportlink="rooms.html?frame=33"/>
+      <classroom id="*35" name="MAKMAL SERVIS &amp; PENYELENGGARAAN AUTOMOTIF" short="MSPA" htmlexportlink="rooms.html?frame=34"/>
+      <classroom id="*36" name="MAKMAL UJIAN &amp; PRESTASI ENJIN" short="MUPE" htmlexportlink="rooms.html?frame=35"/>
+      <classroom id="*37" name="STUDIO KEJURUTERAAN BERBANTU KOMPUTER " short="SKBK" htmlexportlink="rooms.html?frame=36"/>
+      <classroom id="*38" name="STUDIO KOMPUTER UMUM" short="SKU" htmlexportlink="rooms.html?frame=37"/>
+      <classroom id="*39" name="STUDIO REKABENTUK BERBANTU KOMPUTER 1" short="SRBK 1" htmlexportlink="rooms.html?frame=38"/>
+      <classroom id="*40" name="STUDIO REKABENTUK BERBANTU KOMPUTER 2" short="SRBK 2" htmlexportlink="rooms.html?frame=39"/>
+      <classroom id="*41" name="STUDIO REKABENTUK BERBANTU KOMPUTER 3" short="SRBK 3" htmlexportlink="rooms.html?frame=40"/>
+      <classroom id="*42" name="STUDIO REKABENTUK BERBANTU KOMPUTER 4" short="SRBK 4" htmlexportlink="rooms.html?frame=41"/>
+      <classroom id="*43" name="BILIK KULIAH 1" short="BK1 - KMK" htmlexportlink="rooms.html?frame=42"/>
+      <classroom id="*44" name="BILIK KULIAH 2" short="BK 2 - KMK" htmlexportlink="rooms.html?frame=43"/>
+      <classroom id="*45" name="BILIK KULIAH 3" short="BK 3 - KMK" htmlexportlink="rooms.html?frame=44"/>
+      <classroom id="*46" name="BILIK KULIAH 4" short="BK 4 - KMK" htmlexportlink="rooms.html?frame=45"/>
+      <classroom id="*47" name="BILIK KULIAH 5" short="BK 5 - KMK" htmlexportlink="rooms.html?frame=46"/>
+      <classroom id="*48" name="BILIK KULIAH 6" short="BK 6 - KMK" htmlexportlink="rooms.html?frame=47"/>
+      <classroom id="*49" name="BILIK KULIAH 2 FKM (30)(SLIT) BLK  CLEAR" short="BK 2 BLK CLEAR" htmlexportlink="rooms.html?frame=48"/>
+      <classroom id="*50" name="BILIK KULIAH 3 FKM (77) " short="BK 3" htmlexportlink="rooms.html?frame=49"/>
+      <classroom id="*51" name="BILIK KULIAH 4 FKM (76) " short="BK 4" htmlexportlink="rooms.html?frame=50"/>
+      <classroom id="*52" name="BILIK KULIAH 5 FKM (170) " short="BK 5" htmlexportlink="rooms.html?frame=51"/>
+      <classroom id="*53" name="BILIK KULIAH 6 FKM (110) " short="BK 6" htmlexportlink="rooms.html?frame=52"/>
+      <classroom id="*54" name="BILIK KULIAH 7 FKM(77) " short="BK 7" htmlexportlink="rooms.html?frame=53"/>
+      <classroom id="*55" name="BILIK KULIAH 8 FKM (78) " short="BK 8" htmlexportlink="rooms.html?frame=54"/>
+      <classroom id="*56" name="BILIK KULIAH 9 FKM (78) " short="BK 9" htmlexportlink="rooms.html?frame=55"/>
+      <classroom id="*57" name="BILIK KULIAH 10 FKM (68) " short="BK 10" htmlexportlink="rooms.html?frame=56"/>
+      <classroom id="*58" name="BILIK KULIAH 11 FKM (127) " short="BK 11" htmlexportlink="rooms.html?frame=57"/>
+      <classroom id="*59" name="BILIK KULIAH 12 FKM (124) " short="BK 12" htmlexportlink="rooms.html?frame=58"/>
+      <classroom id="*60" name="BILIK KULIAH 13 FKM (68) " short="BK 13" htmlexportlink="rooms.html?frame=59"/>
+      <classroom id="*61" name="BILIK KULIAH 14 FKM (70) " short="BK 14" htmlexportlink="rooms.html?frame=60"/>
+      <classroom id="*62" name="BILIK KULIAH 15 FKM (79) " short="BK 15" htmlexportlink="rooms.html?frame=61"/>
+      <classroom id="*63" name="BILIK KULIAH 16 FKM (79) " short="BK 16" htmlexportlink="rooms.html?frame=62"/>
+      <classroom id="*64" name="BILIK KULIAH 17 FKM (125) " short="BK 17" htmlexportlink="rooms.html?frame=63"/>
+      <classroom id="*65" name="BILIK KULIAH 18 FKM (?) " short="BK 18" htmlexportlink="rooms.html?frame=64"/>
+      <classroom id="*66" name="PBPI" short="PBPI" htmlexportlink="rooms.html?frame=65"/>
+      <classroom id="*67" name="MAKMAL BAHASA 1" short="MB 1" htmlexportlink="rooms.html?frame=66"/>
+      <classroom id="*68" name="MAKMAL BAHASA 2" short="MB 2" htmlexportlink="rooms.html?frame=67"/>
+      <classroom id="*69" name="MAKMAL BAHASA 4 (PBPI)" short="MB 4" htmlexportlink="rooms.html?frame=68"/>
+      <classroom id="*70" name="MP4 FTMK" short="MP4 FTMK" htmlexportlink="rooms.html?frame=69"/>
+      <classroom id="*71" name="MP2 FTMK" short="MP2 FTMK" htmlexportlink="rooms.html?frame=70"/>
+      <classroom id="*72" name="MMP FKEKK 1" short="MMP FKEKK 1" htmlexportlink="rooms.html?frame=71"/>
+      <classroom id="*73" name="FKE" short="FKE" htmlexportlink="rooms.html?frame=72"/>
+      <classroom id="*74" name="FKE1" short="FKE1" htmlexportlink="rooms.html?frame=73"/>
+      <classroom id="*75" name="MMP FKEKK 2" short="MMP FKEKK 2" htmlexportlink="rooms.html?frame=74"/>
+      <classroom id="*76" name="MMP FKEKK 3" short="MMP FKEKK 3" htmlexportlink="rooms.html?frame=75"/>
+      <classroom id="*77" name="MP3  FTMK" short="MP3  FTMK" htmlexportlink="rooms.html?frame=76"/>
+      <classroom id="*78" name="MPD1  FTMK" short="MPD1  FTMK" htmlexportlink="rooms.html?frame=77"/>
+      <classroom id="*79" name="CLEAR ROOM" short="CLEAR ROOM" htmlexportlink="rooms.html?frame=78"/>
+      <classroom id="*80" name="BK8 FPTT" short="BK8 FPTT" htmlexportlink="rooms.html?frame=79"/>
+      <classroom id="*81" name="BK5 FPTT" short="BK5 FPTT" htmlexportlink="rooms.html?frame=80"/>
+      <classroom id="*82" name="BK 2 FPTT" short="BK 2 FPTT" htmlexportlink="rooms.html?frame=81"/>
+      <classroom id="*83" name="MBA 5 FPTT" short="MBA 5 FPTT" htmlexportlink="rooms.html?frame=82"/>
+      <classroom id="*84" name="FTK A" short="FTK A" htmlexportlink="rooms.html?frame=83"/>
+      <classroom id="*85" name="FTK B" short="FTK B" htmlexportlink="rooms.html?frame=84"/>
+      <classroom id="*86" name="BK (UM)" short="BK (UM)" htmlexportlink="rooms.html?frame=85"/>
+      <classroom id="*87" name="MAKMAL (UM)" short="MAKMAL (UM)" htmlexportlink="rooms.html?frame=86"/>
+      <classroom id="*88" name="BK 16 FKEKK" short="BK 16 FKEKK" htmlexportlink="rooms.html?frame=87"/>
+      <classroom id="*89" name="BK3 FKE" short="BK3 FKE" htmlexportlink="rooms.html?frame=88"/>
+      <classroom id="*90" name="BK 5 PPS" short="BK 5 PPS" htmlexportlink="rooms.html?frame=89"/>
+      <classroom id="*91" name="BK 4 PPS" short="BK 4 PPS" htmlexportlink="rooms.html?frame=90"/>
+      <classroom id="*92" name="BK 12  FKE" short="BK 12  FKE" htmlexportlink="rooms.html?frame=91"/>
+      <classroom id="*93" name="BK 2 FKE" short="BK 2 FKE" htmlexportlink="rooms.html?frame=92"/>
+   </classrooms>
+   <students options="import:disable,canadd,canremove,canupdate,primarytt,silent" columns="id,classid,name,htmlexportlink"/>
+   <Settings bPrintClass="1" bPrintTeacher="0" bPrintClassroom="0" bPrintStudents="0" strPrintClass="Classes" strPrintTeacher="Teachers" strPrintClassroom="Classrooms" strPrintStudent="Students" strPrintSummary="Summary timetables" bPrintSummaryClass="1" bPrintSummaryTeacher="0" bPrintSummaryClassroom="0" strPrintSummaryClass="Classes" strPrintSummaryTeacher="Teachers" strPrintSummaryClassroom="Classrooms" bSeparateWeeksTerms="0" nWeeks="0" nTerms="0">
+      <Weeks W0="All weeks" W1="Week A"/>
+      <Terms T0="Whole year" T1="Term 1"/>
+      <strPrintWeek>Week</strPrintWeek>
+      <strPrintTerm>Term</strPrintTerm>
+   </Settings>
+</timetable>
